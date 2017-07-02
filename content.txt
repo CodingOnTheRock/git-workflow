@@ -1,2 +1,3 @@
 # GIT Flow
 001 - Initial commit
+002 - Create feature branch by using command "git flow feature start feature-0001"

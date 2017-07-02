@@ -1,3 +1,4 @@
 # GIT Flow
 001 - Initial commit
 002 - Create feature branch by using command "git flow feature start feature-0001"
+003 - Merge feature branch to develop branch & remove feature branch by using command "git flow feature finish feature-001"
